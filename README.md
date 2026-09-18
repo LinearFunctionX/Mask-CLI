@@ -46,13 +46,16 @@ python mask_sms.py -p # Pick a number from the public list directly
 python mask_sms.py --wait "keyword" # Wait for an SMS containing a keyword, then print and exit
 ```
 
-Key,  Action:
-`↑` / `↓` Navigate messages
-`Enter` View full message
-`/` Search / filter
-`c` Clear filter
-`e` Export message to file
-`b` Back to menu
+
+| Key | Action |
+|-----|--------|
+| `↑` / `↓` | Navigate messages |
+| `Enter` | View full message |
+| `/` | Search / filter |
+| `c` | Clear filter |
+| `e` | Export message to file |
+| `b` | Back to menu |
+
 
 ## Configuration
 
